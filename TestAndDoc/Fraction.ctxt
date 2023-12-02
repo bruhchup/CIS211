@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Fraction
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fraction\ here.\r\n\r\n\ @author\ Hayden\ Banks\r\n\ @version\ March\ 23,\ 2023\r\n
+comment1.params=x\ y
+comment1.target=Fraction(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ instance\ variables\r\n
+comment2.params=
+comment2.target=int\ getNumerator()
+comment2.text=\r\n\ Returns\ the\ numerator\ of\ the\ fraction\r\n\ @return\ numerator\r\n
+comment3.params=
+comment3.target=int\ getDenominator()
+comment3.text=\r\n\ Returns\ the\ denominator\ of\ the\ fraction\r\n\ @return\ denominator\r\n
+comment4.params=
+comment4.target=double\ getDecimal()
+comment4.text=\r\n\ Returns\ the\ fraction\ in\ decimal\ form\r\n\ @return\ decimal\ number\r\n
+comment5.params=x\ y
+comment5.target=java.lang.String\ multFrac(int,\ int)
+comment5.text=\r\n\ Returns\ the\ multiplication\ of\ two\ fractions\r\n\ @param\ x\ numerator\ of\ multiplying\ fraction\r\n\ @param\ y\ denominator\ of\ mulitplying\ fraction\r\n\ @return\ String\ of\ multiplied\ fractions\r\n
+numComments=6

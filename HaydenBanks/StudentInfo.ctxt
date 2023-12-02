@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentInfo
+comment0.text=\r\n\ This\ simple\ Java\ program\ demonstrates\ printf().\r\n\ \r\n\ The\ official\ printf\ documentation\ is\ at\r\n\ https\://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/PrintStream.html\#printf(java.lang.String,java.lang.Object...)\r\n\ \ \ \r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

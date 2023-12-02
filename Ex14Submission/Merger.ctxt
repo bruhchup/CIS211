@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Merger
+comment0.text=\r\n\ Merges\ arrays\ of\ names\r\n\r\n\ @author\ Hayden\ Banks\r\n\ @version\ April\ 20,\ 2023\r\n
+comment1.params=that
+comment1.target=Merger(Name[])
+comment1.text=\r\n\ Takes\ another\ array\ of\ names\ and\ merges\ it\ with\ the\ current\r\n\ \r\n\ @param\ that\ the\ array\ to\ be\ merged\ with\ the\ current\ array\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

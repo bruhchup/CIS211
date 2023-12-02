@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Runner
+comment0.text=\r\n\ Program\ that\ simulates\ a\ list\ of\ names\ from\ a\ group\ of\ seniors.\ Could\ be\ used\ in\r\n\ a\ retirement\ home\ facility\ or\ nursing\ home\ setting.\ Features\ a\ class\ 'NameList'\ that\r\n\ generates\ an\ array\ of\ names\ and\ their\ associated\ ages.\ Features\ a\ class\ 'Teams'\ that\ organizes\r\n\ a\ group\ into\ teams\ for\ games\ or\ any\ team\ based\ activity.\ Features\ a\ merger\ class\ for\ merging\r\n\ different\ arrays\ of\ persons.\ This\ is\ the\ runner\ method\ which\ displays\ numerous\ classes/methods\r\n\ in\ use.\r\n\r\n\ @author\ Hayden\ Banks\r\n\ @version\ April\ 20,\ 2023\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

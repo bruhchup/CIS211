@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Represents\ a\ playing\ card\r\n\r\n\ @author\ Hayden\ Banks\r\n\ @version\ April\ 14,\ 2023\r\n
+comment1.params=rank\ suit
+comment1.target=Card(int,\ int)
+comment1.text=\r\n\ Constructor\ method\ for\ Card.\ Used\ to\ set\ the\ rank\ and\ suit\ of\ the\ card\r\n\ \r\n\ @param\ rank\ card\ rank\r\n\ @param\ suit\ card\ suit\r\n
+comment2.params=x
+comment2.target=int\ compareTo(Card)
+comment2.text=\r\n\ Compares\ a\ playing\ card\ to\ a\ different\ playing\ card\ by\ rank\r\n\ \r\n\ @param\ x\ the\ card\ being\ compared\ to\r\n\ @return\ an\ int\ between\ -1,1\r\n
+comment3.params=
+comment3.target=void\ aceHigh()
+comment3.text=\r\n\ A\ method\ used\ to\ represent\ the\ status\ of\ the\ Ace\ card.\ This\ method\ sets\ aceLow\ to\ false,\ allowing\ Ace\ a\ rank\ of\ 11\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=x
+comment5.target=boolean\ equals(Card)
+comment5.text=\r\n\ Checks\ to\ see\ if\ two\ cards\ are\ equal\r\n\ @param\ x\ the\ comparing\ card\r\n\ @return\ true\ or\ false\r\n
+comment6.params=
+comment6.target=java.lang.String\ getRank()
+comment7.params=
+comment7.target=java.lang.String\ getSuit()
+numComments=8

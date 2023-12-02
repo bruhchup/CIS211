@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Doubloons
+comment1.params=
+comment1.target=void\ main()
+comment2.params=names
+comment2.target=void\ runATest(java.lang.String)
+comment3.params=str
+comment3.target=boolean\ isDoubloon(java.lang.String)
+numComments=4

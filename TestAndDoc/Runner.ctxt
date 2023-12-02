@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Runner
+comment0.text=\r\n\ Runner\ class\ that\ uses\ Fraction\ class\r\n\r\n\ @author\ Hayden\ Banks\r\n\ @version\ March\ 23,\ 2023\r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ Main\ method\ that\ creates\ two\ fractions,\ displays\ their\ values,\ tests\ whether\ the\ fractions\ are\ equal\ to\ each\ other,\ and\ then\ prints\ out\ the\ product\ of\ the\ two\ fractions\r\n
+comment2.params=x\ y
+comment2.target=boolean\ isEqual(double,\ double)
+comment2.text=\r\n\ Method\ for\ testing\ whether\ two\ values\ are\ equal\r\n
+numComments=3

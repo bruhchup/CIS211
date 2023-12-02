@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Teams
+comment0.text=\r\n\ Organizes\ list\ of\ names\ into\ n\ number\ of\ teams\r\n\ \r\n\ @author\ Hayden\ Banks\r\n\ @version\ April\ 19,\ 2023\r\n
+comment1.params=n
+comment1.target=Teams(int)
+comment1.text=\r\n\ Constructor\ method\ for\ teams.\ decides\ amount\ of\ teams\ and\ \ \r\n\ \r\n\ @param\ n\ number\ of\ teams\ desired\ from\ list\r\n
+comment2.params=n\ that
+comment2.target=Name[][]\ mergerTeams(int,\ Name[])
+comment2.text=\r\n\ Method\ compatible\ with\ Merger\ class.\ Allows\ a\ merged\ name\ list\r\n\ to\ be\ passed\ to\ the\ Teams\ class\ to\ create\ teams.\r\n\ \r\n\ @param\ n\ represents\ n\ number\ of\ teams\r\n\ @param\ that\ represents\ the\ merged\ list\ of\ names\ from\ the\ Merger\ class.\r\n
+comment3.params=
+comment3.target=void\ sortTeams()
+comment3.text=\r\n\ Standard\ method\ for\ sorting\ teams\r\n
+comment4.params=
+comment4.target=void\ sortTeamByAge()
+comment4.text=\r\n\ A\ method\ for\ sorting\ n\ number\ of\ teams\ by\ age.\ Imperfect,\ but\ helps\ in\r\n\ preventing\ age\ disparities\r\n
+comment5.params=
+comment5.target=void\ sortTeamByFirst()
+comment5.text=\r\n\ Sorts\ teams\ alphabetically\ by\ first\ name\r\n
+comment6.params=
+comment6.target=void\ sortTeamByLast()
+comment6.text=\r\n\ Sorts\ teams\ alphabetically\ by\ last\ name\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

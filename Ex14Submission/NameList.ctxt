@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NameList
+comment0.text=\r\n\ Class\ for\ organizing\ names\ and\ ages\ into\ arrays.\ Various\ methods\ for\ sorting\ names\ in\ different\ ways.\r\n\ \r\n\ @author\ Hayden\ Banks\r\n\ @version\ April\ 20,\ 2023\r\n
+comment1.params=
+comment1.target=NameList()
+comment1.text=\r\n\ Constructor\ method\ for\ NameList\ that\ determines\ array\ length\ and\ assigns\ names\ to\ the\ array\r\n
+comment2.params=
+comment2.target=void\ ageSort()
+comment2.text=\r\n\ Method\ for\ sorting\ persons\ by\ age\r\n
+comment3.params=
+comment3.target=void\ lastNameSort()
+comment3.text=\r\n\ Method\ for\ sorting\ persons\ by\ last\ name\r\n
+comment4.params=
+comment4.target=void\ firstNameSort()
+comment4.text=\r\n\ Method\ for\ sorting\ persons\ by\ first\ name\r\n
+comment5.params=
+comment5.target=void\ shuffleNames()
+comment5.text=\r\n\ Method\ for\ shuffling\ names\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
